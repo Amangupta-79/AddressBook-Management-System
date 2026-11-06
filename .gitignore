@@ -1,0 +1,11 @@
+# Executable files
+*.exe
+*.out
+a.out
+addressbook
+
+# Object files
+*.o
+
+# Personal contact data
+contacts.txt
