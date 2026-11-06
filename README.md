@@ -47,7 +47,13 @@ gcc main.c contact.c file.c -o addressbook
 ### 3. Search Contact
 ![Search Contact](assets/images/Search-contacts.png)
 
-### 5. List Contacts
+### 4. Edit Contact
+![Search Contact](assets/images/Edit-contacts.png)
+
+### 5. Delete Contact
+![Search Contact](assets/images/Delete-contacts.png)
+
+### 6. List Contact
 ![List Contacts](assets/images/Display-contacts.png)
 
 
