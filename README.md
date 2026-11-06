@@ -39,13 +39,13 @@ gcc main.c contact.c file.c -o addressbook
 ## 📸 Project Screenshots
 
 ### 1. Main Menu
-![Main Menu](assets/images/Main_menu.png)
+![Main Menu](assets/images/Main-menu.png)
 
 ### 2. Create Contact
-![Create Contact](assets/images/Create-contact.png)
+![Create Contact](assets/images/Create-contacts.png)
 
 ### 3. Search Contact
-![Search Contact](assets/images/Search-contact.png)
+![Search Contact](assets/images/Search-contacts.png)
 
 ### 5. List Contacts
 ![List Contacts](assets/images/Display-contacts.png)
